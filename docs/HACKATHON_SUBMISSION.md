@@ -4,7 +4,7 @@
 
 **Game Title**: Quantum Flux  
 **Category**: Game Development - Free Choice  
-**Team/Developer**: [Your Name/Team Name]  
+**Team/Developer**: Junaid Asad Khan  
 **Development Time**: 24 hours  
 **Engine**: Kaboom.js v3000 (JavaScript game library)  
 **Framework**: Vite + TypeScript  
@@ -159,11 +159,11 @@ npm run preview
 
 ## Credits
 
-- **Development**: [Your Name]
+- **Development**: Junaid Asad Khan
 - **AI Assistant**: Cascade (Windsurf IDE)
 - **Game Engine**: Kaboom.js by Replit
 - **Inspiration**: Braid, Celeste, Portal
 
 ---
 
-**Built with ❤️ in 24 hours for [Hackathon Name]**
+**Built with ❤️ in 24 hours**
