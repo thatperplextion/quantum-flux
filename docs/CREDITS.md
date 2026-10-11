@@ -2,9 +2,8 @@
 
 ## Development
 
-**Game Developer**: [Your Name]  
+**Game Developer**: Junaid Asad Khan  
 **Development Time**: 24 hours  
-**Hackathon**: [Hackathon Name]  
 **Date**: October 2025  
 
 ## Tools & Technologies

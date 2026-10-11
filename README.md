@@ -1,8 +1,17 @@
-# Quantum - flux
+# Quantum Flux
+
+> A time-echo puzzle platformer, built solo in a 24-hour hackathon (October 2025).
+
+| | |
+|---|---|
+| **Stack** | TypeScript, Kaboom.js, Vite |
+| **Type** | Browser game, no backend, no external assets |
+| **Status** | Hackathon prototype, complete and playable |
+| **Docs** | [Game design](docs/GAME_DESIGN.md) · [Enhancements](docs/ENHANCEMENTS.md) · [Credits](docs/CREDITS.md) |
 
 A fast TypeScript + Vite + Kaboom.js prototype built for a 24hr hackathon. Core mechanic: record your actions for 5 seconds, then spawn a time-echo clone that replays them to help solve platforming puzzles (e.g., hold pressure plates to open doors).
 
-## Run Locally (Windows)
+## Run locally
 
 - Prereq: Node.js 18+ and npm
 - Install deps:
